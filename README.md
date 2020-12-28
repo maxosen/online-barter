@@ -32,12 +32,12 @@ Currently, the following web pages are available.
 
 **Market module**
 
-- [] Let user upload items.
-- [] Items catalog.
+- [ ] Let user upload items.
+- [ ] Items catalog.
 
 **User account module**
 
-- [] User registration
-- [] User login
+- [ ] User registration
+- [ ] User login
 
 
