@@ -1,9 +1,9 @@
-# Online Barter App
+## Online Barter App
 A website to trade items with other people.
 
 HTML, CSS from https://github.com/michikochew98/online-barter
 
-# How to run the project on your computer
+## How to run the project on your computer
 Ensure that you have Python and Django installed.
 * Refer [here on instructions to install Django](https://docs.djangoproject.com/en/3.1/topics/install/#installing-an-official-release-with-pip).
 
@@ -20,14 +20,14 @@ python manage.py runserver
 
 You can now access the website on `localhost:8000`
 
-# Available pages / URLs
+## Available pages / URLs
 Currently, the following web pages are available.
 
 * `*/market/add_item`
 
 `*` represents the home URL.
 
-# TODO
+## TODO
 **Chat module**
 
 **Market module**
