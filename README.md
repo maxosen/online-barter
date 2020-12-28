@@ -31,10 +31,12 @@ Currently, the following web pages are available.
 **Chat module**
 
 **Market module**
+
 [] Let user upload items.
 [] Items catalog.
 
 **User account module**
+
 [] User registration
 [] User login
 
